@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: netreach
+Version: 1.0.0
+Requires-Dist: click>=8.1
+Requires-Dist: httpx>=0.27
+Requires-Dist: yt-dlp>=2024.1
+Requires-Dist: snscrape>=0.7
+Requires-Dist: feedparser>=6.0
+Requires-Dist: duckduckgo-search>=6.0
+Requires-Dist: PyYAML>=6.0
+Requires-Dist: rich>=13.0
+Dynamic: requires-dist

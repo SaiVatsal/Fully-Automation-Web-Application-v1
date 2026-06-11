@@ -1,0 +1,8 @@
+click>=8.1
+httpx>=0.27
+yt-dlp>=2024.1
+snscrape>=0.7
+feedparser>=6.0
+duckduckgo-search>=6.0
+PyYAML>=6.0
+rich>=13.0
