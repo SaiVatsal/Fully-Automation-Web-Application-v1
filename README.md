@@ -10,7 +10,7 @@ To install `netreach` globally in editable mode:
 
 ```bash
 # Clone the repository and navigate into it
-cd "C:\Antigravity\Fully Automation"
+cd "C:\toool\Fully Automation"
 
 # Install using pip in editable mode
 pip install -e .
